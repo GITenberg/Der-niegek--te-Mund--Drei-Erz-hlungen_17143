@@ -16,6 +16,8 @@ creator:
     - http://de.wikipedia.org/wiki/Jakob_Wassermann
     - http://en.wikipedia.org/wiki/Jakob_Wassermann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17143#Der-niegek--te-Mund--Drei-Erz-hlungen
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2005-11-23'
 gutenberg_type: Text
